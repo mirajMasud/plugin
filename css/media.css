@@ -1,0 +1,113 @@
+@media screen and (min-width: 576px) and (max-width: 992px) {
+    .hero-tag {
+      font-weight: 500;
+      font-size: 20px;
+    }
+    .hero-title {
+      font-size: 34px;
+    }
+    .hero-discription{
+        font-size: 12px;
+    }
+    .brand-title{
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .btn-outline-respond{
+        justify-content: center !important;
+        align-items: center;
+    }
+    .services-main-info{
+        text-align: center;
+    }
+    .services-title{
+        font-size: 28px;
+    }
+    .p-wrapper-text{
+        padding: 12px;
+        width: 100%;
+        text-align: center;
+
+        .p-services-title{
+            font-size: 28px;
+        }
+        .p-description{
+            font-size: 12;
+        }
+    }
+    .box-1,.box-2, .box-3, .box-4{
+        padding: 20px;
+    }
+    .p-rep{
+        padding: 20px;
+    }
+    .blog-container{
+        margin: 20px !important;
+    }
+    .footer-top{
+        
+
+        .first-part, .spacing, .spacing-two , .spacing-last{
+            padding: 22px;
+        }
+    }
+    .b-arrange {
+        padding-right: 42px;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .hero-tag {
+      font-size: 16px;
+    }
+    .hero-title {
+      font-size: 28px;
+    }
+    .hero-discription{
+        font-size: 12px;
+    }
+    .btn-outline-respond{
+        justify-content: center !important;
+        align-items: center;
+    }
+    .services-main-info{
+        text-align: center;
+    }
+    .services-title{
+        font-size: 28px;
+    }
+    .card-padding{
+        padding: 12px;
+    }
+    .p-wrapper-text{
+        padding: 12px;
+        width: 100%;
+        text-align: center;
+        .p-services-title{
+            font-size: 28px;
+        }
+        .p-description{
+            font-size: 12;
+        }
+    }
+    .box-1,.box-2, .box-3, .box-4{
+        padding: 20px 22px 20px 22px;
+    }
+    
+    .blog-container{
+        margin: 20px !important;
+    }
+    .footer-top{
+        
+        text-align: center;
+
+        .first-part, .spacing, .spacing-two{
+            padding: 20px;
+        }
+    }
+    
+      .b-arrange {
+        padding-right: 42px;
+    }
+    
+  }
